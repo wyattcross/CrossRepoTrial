@@ -6,6 +6,15 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+git status 
+
+git add -A 
+
+git commit -am '<message>' 
+
+git push 
+
+git pull 
 
 ## R Markdown
 
