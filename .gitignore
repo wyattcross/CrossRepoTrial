@@ -1,3 +1,4 @@
+#list of files and filetypes not tracked by Git
 .Rproj.user
 .Rhistory
 .RData
