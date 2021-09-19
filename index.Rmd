@@ -1,5 +1,5 @@
 ---
-title: "Web Page Set up"
+title: "Web Page"
 author: "Wyatt Cross"
 date: "date usually here"
 output: html_document
@@ -10,4 +10,8 @@ scooby
 ```
 
 ___
+
+[Here is a link to homework #2](Homework_02.Rmd)
+
+
 
